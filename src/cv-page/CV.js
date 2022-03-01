@@ -134,7 +134,7 @@ function CV() {
 
                 {/* <!-- profile buttons --> */}
                 <div className="lnks">
-                  <a href="https://drive.google.com/file/d/1Bv22msQwU1ZTNGbhMMkyVLE6EAk4heCo/view?usp=sharing" className="lnk" target="_blank">
+                  <a href="https://drive.google.com/file/d/1X2aUsCi743tMWamI3rz4d7-lxX10g_po/view?usp=sharing" className="lnk" target="_blank">
                     <span className="text">CV ダウンロード</span>
                   </a>
                   <a href="#" className="lnk discover">
@@ -172,13 +172,11 @@ function CV() {
                     </div>
                     <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
                       <div className="info-list">
-                        <ul>
-                          <li><strong>年齢　.　.　.　.</strong> <span id="years-old">24</span></li>
-                          <li><strong>国籍　.　.　.　.</strong> ベトナム</li>
-                          <li><strong>メール</strong> <a href="mailto:nguyencongtam642@gmail.com">nguyencongtam642@gmail.com</a></li>
-                          <li><strong>現住所　.　.　.　.</strong> 埼玉県朝霞市東弁財</li>
-                        
-                        </ul>
+                       
+                        <div>年齢　.　.　.　. <span id="years-old">24</span></div>
+                        <div>E メール.　.　. <a href="mailto:nguyencongtam642@gmail.com">nguyencongtam642@gmail.com</a></div>
+                        <div>国籍　.　.　.　. ベトナム</div>
+                        <div>現住所　.　.　. 埼玉県朝霞市東弁財</div>
                       </div>
                     </div>
                     <div className="clear"></div>
